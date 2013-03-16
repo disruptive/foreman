@@ -7,7 +7,7 @@ platform :mingw do
 end
 
 platform :jruby do
-  gem "posix-spawn", "~> 0.3.6"
+  #gem "posix-spawn", "~> 0.3.6"
 end
 
 group :development do
